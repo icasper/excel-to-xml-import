@@ -6,7 +6,7 @@ mydoc = minidom.parse('items.xml')
 item = mydoc.getElementsByTagName('item')
 
 
-print(item[1].item.data)
+print(item[1].firstChild.data)
 
 
 #dfe = pd.read_excel (r'D:\Projects\python\excel-xml-import\StationCode_Torque Media.xlsx', sheet_name='Torque Media')
