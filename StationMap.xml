@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfStationMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <ArrayOfStationMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <StationMap>
     <BroadcasterId>ALGOAFM</BroadcasterId>
     <TelmarId>ALG</TelmarId>
@@ -45,47 +45,47 @@
     <TelmarId>POW</TelmarId>
     <Language>E</Language>
   </StationMap>
-   <StationMap>
+  <StationMap>
     <BroadcasterId>HOT919</BroadcasterId>
     <TelmarId>HOT</TelmarId>
     <Language>E</Language>
   </StationMap>
-   <StationMap>
-        <BroadcasterId>JoziFM</BroadcasterId>
-        <TelmarId>SOW</TelmarId>
-        <Language>E</Language>
+  <StationMap>
+    <BroadcasterId>JoziFM</BroadcasterId>
+    <TelmarId>SOW</TelmarId>
+    <Language>E</Language>
   </StationMap>
-   <StationMap>
-          <BroadcasterId>ClassicFM</BroadcasterId>
-          <TelmarId>CLAS</TelmarId>
-          <Language>E</Language>
+  <StationMap>
+    <BroadcasterId>ClassicFM</BroadcasterId>
+    <TelmarId>CLAS</TelmarId>
+    <Language>E</Language>
   </StationMap>
- <StationMap>
-          <BroadcasterId>YOUFM</BroadcasterId>
-          <TelmarId>YOU</TelmarId>
-          <Language>E</Language>
+  <StationMap>
+    <BroadcasterId>YOUFM</BroadcasterId>
+    <TelmarId>YOU</TelmarId>
+    <Language>E</Language>
   </StationMap> 
-      <StationMap>
+  <StationMap>
     <BroadcasterId>702</BroadcasterId>
     <TelmarId>R7</TelmarId>
     <Language>E</Language>
   </StationMap>
-   <StationMap>
+  <StationMap>
     <BroadcasterId>CAPE</BroadcasterId>
     <TelmarId>CAPT</TelmarId>
     <Language>E</Language>
   </StationMap>
-   <StationMap>
+  <StationMap>
     <BroadcasterId>HIGH</BroadcasterId>
     <TelmarId>HIGH</TelmarId>
     <Language>E</Language>
   </StationMap>
-   <StationMap>
+  <StationMap>
     <BroadcasterId>KFM</BroadcasterId>
     <TelmarId>KFM</TelmarId>
     <Language>E</Language>
- </StationMap>
-   <StationMap>
+  </StationMap>
+  <StationMap>
     <BroadcasterId>Rise FM</BroadcasterId>
     <TelmarId>RFM</TelmarId>
     <Language>E</Language>
@@ -99,25 +99,25 @@
       <BroadcasterId>VUMA103</BroadcasterId>
       <TelmarId>VUMA</TelmarId>
       <Language>E</Language>
-  </StationMap>
-  <StationMap>
+ </StationMap>
+ <StationMap>
       <BroadcasterId>RSG</BroadcasterId>
       <TelmarId>RSG</TelmarId>
       <Language>E</Language>
-  </StationMap>
-  <StationMap>
+ </StationMap>
+ <StationMap>
       <BroadcasterId>SAFM</BroadcasterId>
       <TelmarId>SAFM</TelmarId>
       <Language>E</Language>
-  </StationMap>
-  <StationMap>
+ </StationMap>
+ <StationMap>
     <BroadcasterId>Hot 102.7 FM</BroadcasterId>
     <TelmarId>HOT</TelmarId>
     <Language>E</Language>
-  </StationMap>
+ </StationMap>
  <StationMap>
     <BroadcasterId>OC Classic 102.7 </BroadcasterId>
     <TelmarId>CLAS</TelmarId>
     <Language>E</Language>
-  </StationMap>
- </ArrayOfStationMap>
+ </StationMap>
+</ArrayOfStationMap>
