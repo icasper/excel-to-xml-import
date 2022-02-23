@@ -1,9 +1,9 @@
 import pandas as pd
 from xml.dom import minidom
 
-mydoc = minidom.parse('items.xml')
+mydoc = minidom.parse('StationMap.xml')
 
-item = mydoc.getElementsByTagName('item')
+item = mydoc.getElementsByTagName('StationMap')
 
 
 print(item[1].firstChild.data)
