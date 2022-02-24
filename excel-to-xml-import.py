@@ -36,4 +36,4 @@ with open('StationMap.xml','w') as f:
 #dfe = pd.read_excel (r'D:\Projects\python\excel-xml-import\StationCode_Torque Media.xlsx', sheet_name='Torque Media')
 
 #for x in range(0,dfe.index.stop):
-#    print(dfe.loc[x].at['Company'].strip(), dfe.loc[x].at['Code'].strip())
+#    print(dfe.loc[x].at['BroadcasterId'].strip(), dfe.loc[x].at['TelmarId'].strip())
