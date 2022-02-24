@@ -1,1 +1,1348 @@
-<?xml version="1.0" ?><ArrayOfStationMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><StationMap><BroadcasterId>ALGOAFM</BroadcasterId><TelmarId>ALG</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>ALGOA</BroadcasterId><TelmarId>ALG</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>AlgoaFM</BroadcasterId><TelmarId>ALG</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>BDFM</BroadcasterId><TelmarId>BDFM</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>KAYAFM</BroadcasterId><TelmarId>KAYA</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>OFM</BroadcasterId><TelmarId>OFM</TelmarId><Language>A</Language></StationMap><StationMap><BroadcasterId>MixFM</BroadcasterId><TelmarId>MIX</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>CapricornFM</BroadcasterId><TelmarId>CAPR</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>Power98.7</BroadcasterId><TelmarId>POW</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>HOT919</BroadcasterId><TelmarId>HOT</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>JoziFM</BroadcasterId><TelmarId>SOW</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>ClassicFM</BroadcasterId><TelmarId>CLAS</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>YOUFM</BroadcasterId><TelmarId>YOU</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>702</BroadcasterId><TelmarId>R7</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>CAPE</BroadcasterId><TelmarId>CAPT</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>HIGH</BroadcasterId><TelmarId>HIGH</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>KFM</BroadcasterId><TelmarId>KFM</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>Rise FM</BroadcasterId><TelmarId>RFM</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>VUMA</BroadcasterId><TelmarId>VUMA</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>VUMA103</BroadcasterId><TelmarId>VUMA</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>RSG</BroadcasterId><TelmarId>RSG</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>SAFM</BroadcasterId><TelmarId>SAFM</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>Hot 102.7 FM</BroadcasterId><TelmarId>HOT</TelmarId><Language>E</Language></StationMap><StationMap><BroadcasterId>OC Classic 102.7 </BroadcasterId><TelmarId>CLAS</TelmarId><Language>E</Language></StationMap></ArrayOfStationMap>
+<?xml version="1.0" ?>
+<ArrayOfStationMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<StationMap>
+		<BroadcasterId>ALGOAFM</BroadcasterId>
+		<TelmarId>ALG</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>ALGOA</BroadcasterId>
+		<TelmarId>ALG</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>AlgoaFM</BroadcasterId>
+		<TelmarId>ALG</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>BDFM</BroadcasterId>
+		<TelmarId>BDFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>KAYAFM</BroadcasterId>
+		<TelmarId>KAYA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>OFM</BroadcasterId>
+		<TelmarId>OFM</TelmarId>
+		<Language>A</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>MixFM</BroadcasterId>
+		<TelmarId>MIX</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>CapricornFM</BroadcasterId>
+		<TelmarId>CAPR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Power98.7</BroadcasterId>
+		<TelmarId>POW</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>HOT919</BroadcasterId>
+		<TelmarId>HOT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>JoziFM</BroadcasterId>
+		<TelmarId>SOW</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>ClassicFM</BroadcasterId>
+		<TelmarId>CLAS</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>YOUFM</BroadcasterId>
+		<TelmarId>YOU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>702</BroadcasterId>
+		<TelmarId>R7</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>CAPE</BroadcasterId>
+		<TelmarId>CAPT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>HIGH</BroadcasterId>
+		<TelmarId>HIGH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>KFM</BroadcasterId>
+		<TelmarId>KFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Rise FM</BroadcasterId>
+		<TelmarId>RFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>VUMA</BroadcasterId>
+		<TelmarId>VUMA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>VUMA103</BroadcasterId>
+		<TelmarId>VUMA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>RSG</BroadcasterId>
+		<TelmarId>RSG</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>SAFM</BroadcasterId>
+		<TelmarId>SAFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Hot 102.7 FM</BroadcasterId>
+		<TelmarId>HOT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>OC Classic 102.7 </BroadcasterId>
+		<TelmarId>CLAS</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>90.6 FM Stereo</BroadcasterId>
+		<TelmarId>VCR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Al Ansaar</BroadcasterId>
+		<TelmarId>ALAN</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Alfred NZO</BroadcasterId>
+		<TelmarId>ALF</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Alfred Nzo Comm Radio</BroadcasterId>
+		<TelmarId>ALF</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>ALX FM Stereo</BroadcasterId>
+		<TelmarId>ALX</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Atlantis Community Radio</BroadcasterId>
+		<TelmarId>ATL</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Barberton Community Radio</BroadcasterId>
+		<TelmarId>BABC</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Bay FM</BroadcasterId>
+		<TelmarId>BAY</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Bojanala FM</BroadcasterId>
+		<TelmarId>BOJ</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Bok Radio</BroadcasterId>
+		<TelmarId>BOK</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Bophirima FM</BroadcasterId>
+		<TelmarId>BOPH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Bosveld Stereo</BroadcasterId>
+		<TelmarId>BOS</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Botlokwa Community Radio</BroadcasterId>
+		<TelmarId>BOTO</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Bush Radio</BroadcasterId>
+		<TelmarId>BUSH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Bushbuckridge Radio</BroadcasterId>
+		<TelmarId>BUBU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Bushbuckridge</BroadcasterId>
+		<TelmarId>BUBU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Caledon FM</BroadcasterId>
+		<TelmarId>CAL</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>CCFM Radio</BroadcasterId>
+		<TelmarId>CCFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Chai FM</BroadcasterId>
+		<TelmarId>CHAI</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Choice FM</BroadcasterId>
+		<TelmarId>CHO</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Cosmo Stereo</BroadcasterId>
+		<TelmarId>COS</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Dihlabeng FM</BroadcasterId>
+		<TelmarId>DIH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Disa FM</BroadcasterId>
+		<TelmarId>DIS</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Durban Youth Radio</BroadcasterId>
+		<TelmarId>DYR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>East Rand Stereo</BroadcasterId>
+		<TelmarId>ERAN</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>East Wave Radio</BroadcasterId>
+		<TelmarId>WAVE</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Eden FM</BroadcasterId>
+		<TelmarId>EDEN</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Edenvale Radio</BroadcasterId>
+		<TelmarId>EDV</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>EKFM</BroadcasterId>
+		<TelmarId>EKFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Eldos FM</BroadcasterId>
+		<TelmarId>ELDO</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Elgin FM</BroadcasterId>
+		<TelmarId>ELG</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Emalahleni FM</BroadcasterId>
+		<TelmarId>EMAL</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Energy FM</BroadcasterId>
+		<TelmarId>ENER</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Eyethu FM</BroadcasterId>
+		<TelmarId>EYE</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Fine Music Radio</BroadcasterId>
+		<TelmarId>FMR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Forte FM</BroadcasterId>
+		<TelmarId>FORT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Fresh FM</BroadcasterId>
+		<TelmarId>FRE</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Gateway Radio 89.6 FM</BroadcasterId>
+		<TelmarId>GAT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>GCR 106 FM</BroadcasterId>
+		<TelmarId>GIY</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Giyani FM - GCR</BroadcasterId>
+		<TelmarId>GIY</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Grahamstown Radio</BroadcasterId>
+		<TelmarId>GRAH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Greater Lebowakgomo</BroadcasterId>
+		<TelmarId>GLCR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Greater Tzaneen Comm Radio</BroadcasterId>
+		<TelmarId>GTFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>GrootFM</BroadcasterId>
+		<TelmarId>GROT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Heartbeat FM</BroadcasterId>
+		<TelmarId>HRT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Heartbeat FM</BroadcasterId>
+		<TelmarId>HRT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Helderberg Radio</BroadcasterId>
+		<TelmarId>HELD</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Highway Radio</BroadcasterId>
+		<TelmarId>HIGW</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Hindvani</BroadcasterId>
+		<TelmarId>HIND</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Hot FM</BroadcasterId>
+		<TelmarId>HOT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Icora FM</BroadcasterId>
+		<TelmarId>ICOR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>IFM Radio 88.3</BroadcasterId>
+		<TelmarId>IFMR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Imbokodo FM</BroadcasterId>
+		<TelmarId>IMBO</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Impact FM</BroadcasterId>
+		<TelmarId>IMPC</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Inanda FM</BroadcasterId>
+		<TelmarId>NAN</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Inkonjane FM</BroadcasterId>
+		<TelmarId>INKO</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Iscorian Fm</BroadcasterId>
+		<TelmarId>IFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Itheku FM</BroadcasterId>
+		<TelmarId>ITH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Izwi Lethemba Christian Radio</BroadcasterId>
+		<TelmarId>IZL</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Izwi Lomzansi FM</BroadcasterId>
+		<TelmarId>IZWI</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Jozi FM</BroadcasterId>
+		<TelmarId>SOW</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Kangala Community Radio</BroadcasterId>
+		<TelmarId>KANG</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Kanyamazane</BroadcasterId>
+		<TelmarId>KAN</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Kasie FM</BroadcasterId>
+		<TelmarId>KASI</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>KC</BroadcasterId>
+		<TelmarId>KC</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Kgatleng FM</BroadcasterId>
+		<TelmarId>KGT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Khwezi FM</BroadcasterId>
+		<TelmarId>KHW</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Knysna</BroadcasterId>
+		<TelmarId>KNYS</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Kofifi Stereo</BroadcasterId>
+		<TelmarId>KOF</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Kopanong FM</BroadcasterId>
+		<TelmarId>KOPA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Kosmos Stereo</BroadcasterId>
+		<TelmarId>KOSM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Kouga FM</BroadcasterId>
+		<TelmarId>KOU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Kovsie</BroadcasterId>
+		<TelmarId>KOV</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Kumkani FM</BroadcasterId>
+		<TelmarId>KUM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Kurara FM</BroadcasterId>
+		<TelmarId>KURA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>LA FM</BroadcasterId>
+		<TelmarId>LA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Laeveld Radio</BroadcasterId>
+		<TelmarId>LAEV</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Lekker FM</BroadcasterId>
+		<TelmarId>LKK</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Lekoa FM</BroadcasterId>
+		<TelmarId>LEK</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Lentswe</BroadcasterId>
+		<TelmarId>LENT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Lenz FM 93.6</BroadcasterId>
+		<TelmarId>LENZ</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Letlhabile</BroadcasterId>
+		<TelmarId>LETL</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Lichvaal Stereo</BroadcasterId>
+		<TelmarId>LICH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Link FM</BroadcasterId>
+		<TelmarId>LINK</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Lukhanji FM</BroadcasterId>
+		<TelmarId>LUKH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Madibeng</BroadcasterId>
+		<TelmarId>MADI</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mafikeng Comm Radio</BroadcasterId>
+		<TelmarId>MFK</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mafisa Community Radio</BroadcasterId>
+		<TelmarId>MAF</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mahikeng FM</BroadcasterId>
+		<TelmarId>MFK</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mala Mulele FM</BroadcasterId>
+		<TelmarId>MAL</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Maluti</BroadcasterId>
+		<TelmarId>MALU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>MAMS Radio</BroadcasterId>
+		<TelmarId>MAMS</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Maputaland Community Radio</BroadcasterId>
+		<TelmarId>MAPU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Maruleng FM</BroadcasterId>
+		<TelmarId>MAR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mascom FM</BroadcasterId>
+		<TelmarId>MAS</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mash FM Stereo</BroadcasterId>
+		<TelmarId>MASH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>MC 90.3 FM</BroadcasterId>
+		<TelmarId>MC</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mdantsane FM</BroadcasterId>
+		<TelmarId>MDAN</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Merafong 106.5 FM</BroadcasterId>
+		<TelmarId>MER</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Metro FM</BroadcasterId>
+		<TelmarId>MET</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>MFM</BroadcasterId>
+		<TelmarId>MFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>MIX 93.8 FM</BroadcasterId>
+		<TelmarId>MIX</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mix FM</BroadcasterId>
+		<TelmarId>MIX</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mkhondo</BroadcasterId>
+		<TelmarId>MAKH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mkhondo Community Radio</BroadcasterId>
+		<TelmarId>MKH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mmabatho FM</BroadcasterId>
+		<TelmarId>MMAB</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Modiri FM</BroadcasterId>
+		<TelmarId>MODI</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mogale</BroadcasterId>
+		<TelmarId>MOG</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mohodi Community Radio</BroadcasterId>
+		<TelmarId>MOHO</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mohodi FM Stereo</BroadcasterId>
+		<TelmarId>MOHO</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mokopane FM</BroadcasterId>
+		<TelmarId>MOKO</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Moletsi FM</BroadcasterId>
+		<TelmarId>MOLE</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Moretele</BroadcasterId>
+		<TelmarId>MORE</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Moretele Community Radio</BroadcasterId>
+		<TelmarId>MORE</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Mosupatsela FM</BroadcasterId>
+		<TelmarId>MOSU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Motheo FM</BroadcasterId>
+		<TelmarId>MOTH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Moutse Community Radio</BroadcasterId>
+		<TelmarId>MOUT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Musina Community Radio</BroadcasterId>
+		<TelmarId>MUSI</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Naledi FM Stereo</BroadcasterId>
+		<TelmarId>NAL</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Namakwaland Community Radio</BroadcasterId>
+		<TelmarId>NAMA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Ndlambe FM</BroadcasterId>
+		<TelmarId>NDL</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Newcastle Community Radio</BroadcasterId>
+		<TelmarId>NEWC</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Ngqushwa FM</BroadcasterId>
+		<TelmarId>NGQ</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Nguna</BroadcasterId>
+		<TelmarId>NGU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Nkomazi Community Radio</BroadcasterId>
+		<TelmarId>NKON</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Nongoma FM</BroadcasterId>
+		<TelmarId>NON</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>North Coast Radio</BroadcasterId>
+		<TelmarId>NOR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Nkqubela FM</BroadcasterId>
+		<TelmarId>NQU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Nqubeko FM</BroadcasterId>
+		<TelmarId>NKQU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>OFM</BroadcasterId>
+		<TelmarId>OFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>One 94.0 FM</BroadcasterId>
+		<TelmarId>ONE</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Overvaal Stereo</BroadcasterId>
+		<TelmarId>OVER</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Paarl 96.7 FM</BroadcasterId>
+		<TelmarId>PAA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>PE FM</BroadcasterId>
+		<TelmarId>PE</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>PE FM</BroadcasterId>
+		<TelmarId>PE</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>People's Choice Radio</BroadcasterId>
+		<TelmarId>PCFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Perron FM</BroadcasterId>
+		<TelmarId>PER</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Phalaborwa Comm Radio Station</BroadcasterId>
+		<TelmarId>PHAL</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Pheli FM</BroadcasterId>
+		<TelmarId>PHE</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Power FM</BroadcasterId>
+		<TelmarId>POW</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Pretoria FM</BroadcasterId>
+		<TelmarId>PRE</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Qwa Qwa</BroadcasterId>
+		<TelmarId>QWA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Qwa Qwa Radio</BroadcasterId>
+		<TelmarId>QWA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio 786</BroadcasterId>
+		<TelmarId>R78</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Alpha</BroadcasterId>
+		<TelmarId>ALPH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Atlantis</BroadcasterId>
+		<TelmarId>ATL</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio East Rand</BroadcasterId>
+		<TelmarId>ERAN</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Gamkaland</BroadcasterId>
+		<TelmarId>GAMK</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Good News FM</BroadcasterId>
+		<TelmarId>GNEW</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Graaf Reinet</BroadcasterId>
+		<TelmarId>GRAF</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Islam</BroadcasterId>
+		<TelmarId>ISLM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Kaap se Punt (RKP)</BroadcasterId>
+		<TelmarId>KAAP</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Karabo</BroadcasterId>
+		<TelmarId>KAR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Khanya</BroadcasterId>
+		<TelmarId>KHAN</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Kingfisher FM</BroadcasterId>
+		<TelmarId>FISH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Kragbron Radio</BroadcasterId>
+		<TelmarId>KRAG</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Mafisa</BroadcasterId>
+		<TelmarId>MAF</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Middelburg</BroadcasterId>
+		<TelmarId>MIDD</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Moletjie</BroadcasterId>
+		<TelmarId>MOLE</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Mozolo</BroadcasterId>
+		<TelmarId>MOZ</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio NFM</BroadcasterId>
+		<TelmarId>NFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Omulunga</BroadcasterId>
+		<TelmarId>OMU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Overberg 98.4 FM</BroadcasterId>
+		<TelmarId>OVEB</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Panorama</BroadcasterId>
+		<TelmarId>PAN</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>PretoriaFM</BroadcasterId>
+		<TelmarId>PRE</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio PUK</BroadcasterId>
+		<TelmarId>PUK</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Pulpit</BroadcasterId>
+		<TelmarId>PULP</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio SMU</BroadcasterId>
+		<TelmarId>SMU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Takalani</BroadcasterId>
+		<TelmarId>TAK</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Today</BroadcasterId>
+		<TelmarId>TOD</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Turf</BroadcasterId>
+		<TelmarId>TURF</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Uct</BroadcasterId>
+		<TelmarId>UCT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Univen</BroadcasterId>
+		<TelmarId>UNIV</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Veritas</BroadcasterId>
+		<TelmarId>VER</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio West Coast</BroadcasterId>
+		<TelmarId>WCOA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Radio Witzenberg</BroadcasterId>
+		<TelmarId>WITZ</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Rainbow FM</BroadcasterId>
+		<TelmarId>RAIN</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Ratlou FM</BroadcasterId>
+		<TelmarId>RAT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>RAU</BroadcasterId>
+		<TelmarId>RAU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Rhodes Music Radio</BroadcasterId>
+		<TelmarId>RMR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Rise Community Radio</BroadcasterId>
+		<TelmarId>RISE</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Rise FM</BroadcasterId>
+		<TelmarId>RFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>River FM - NWU</BroadcasterId>
+		<TelmarId>NRIV</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Riverside Community Radio</BroadcasterId>
+		<TelmarId>RIV</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Rosestad 100.6FM</BroadcasterId>
+		<TelmarId>ROES</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Sajonisi FM (SYR)</BroadcasterId>
+		<TelmarId>SAJ</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Sedibeng FM</BroadcasterId>
+		<TelmarId>SED</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Sekgosese Community Radio</BroadcasterId>
+		<TelmarId>SEK</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Sekgosese</BroadcasterId>
+		<TelmarId>SEK</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Sekhukhune Comm Radio</BroadcasterId>
+		<TelmarId>SKFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Setsoto FM</BroadcasterId>
+		<TelmarId>SET</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Shimla</BroadcasterId>
+		<TelmarId>SHIM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Siyathuthuka FM</BroadcasterId>
+		<TelmarId>SIYA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Sloot FM</BroadcasterId>
+		<TelmarId>SLO</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Soshanguve Community Radio</BroadcasterId>
+		<TelmarId>SOS</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Star 919 FM</BroadcasterId>
+		<TelmarId>STAR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Star FM</BroadcasterId>
+		<TelmarId>STAR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Sunny South Radio</BroadcasterId>
+		<TelmarId>SUNS</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Sunshine Radio</BroadcasterId>
+		<TelmarId>SSH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Teemaneng Stereo</BroadcasterId>
+		<TelmarId>TEEM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Thabantsho Community Radio</BroadcasterId>
+		<TelmarId>THA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>The Rock FM</BroadcasterId>
+		<TelmarId>TRK</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Voice of the Community</BroadcasterId>
+		<TelmarId>VFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>The Voice of the Community</BroadcasterId>
+		<TelmarId>VOC</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Thetha FM</BroadcasterId>
+		<TelmarId>THET</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Top Stereo</BroadcasterId>
+		<TelmarId>TOP</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Tshwane FM</BroadcasterId>
+		<TelmarId>TSHW</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Tubatse Progressive Community Radio</BroadcasterId>
+		<TelmarId>TUBA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Tuks</BroadcasterId>
+		<TelmarId>TUKS</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Tut</BroadcasterId>
+		<TelmarId>TUT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Tygerberg 104FM</BroadcasterId>
+		<TelmarId>TYG</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>UCR</BroadcasterId>
+		<TelmarId>UTRA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Ugu</BroadcasterId>
+		<TelmarId>UGU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>UJFM</BroadcasterId>
+		<TelmarId>UJFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Ulwazi FM 88.9</BroadcasterId>
+		<TelmarId>ULWA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Umgungundlovu</BroadcasterId>
+		<TelmarId>UMGU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Unique FM</BroadcasterId>
+		<TelmarId>UNIQ</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Vaal Community Radio</BroadcasterId>
+		<TelmarId>VCR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Vaaltar FM</BroadcasterId>
+		<TelmarId>VAAL</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Valley FM</BroadcasterId>
+		<TelmarId>VAL</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Vibe FM</BroadcasterId>
+		<TelmarId>VIBE</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Village FM</BroadcasterId>
+		<TelmarId>VIL</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>VOT c/o Beyond Dimensions</BroadcasterId>
+		<TelmarId>VOT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Voice of the Cape</BroadcasterId>
+		<TelmarId>VOC</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Voice of Wits</BroadcasterId>
+		<TelmarId>VOW</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>VOT Beyond</BroadcasterId>
+		<TelmarId>VOT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Vukani FM</BroadcasterId>
+		<TelmarId>VUK</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>VUT</BroadcasterId>
+		<TelmarId>VUT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Waterberg Stereo</BroadcasterId>
+		<TelmarId>WAT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>West Side FM</BroadcasterId>
+		<TelmarId>WSTS</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Westside FM</BroadcasterId>
+		<TelmarId>WSTS</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Whale Coast FM</BroadcasterId>
+		<TelmarId>WHAL</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Wild Coast FM</BroadcasterId>
+		<TelmarId>WILD</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Worcester FM</BroadcasterId>
+		<TelmarId>WOR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>YOU FM</BroadcasterId>
+		<TelmarId>YOU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Zebediela Community Radio</BroadcasterId>
+		<TelmarId>ZEB</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Zibonele FM</BroadcasterId>
+		<TelmarId>ZIB</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Zululand FM</BroadcasterId>
+		<TelmarId>ZULU</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Star 91.9 FM</BroadcasterId>
+		<TelmarId>STAR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>SKFM</BroadcasterId>
+		<TelmarId>SKFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Univen FM</BroadcasterId>
+		<TelmarId>UNIV</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Choice FM</BroadcasterId>
+		<TelmarId>CHO</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Makhado FM</BroadcasterId>
+		<TelmarId>MAKH</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Emalahleni FM</BroadcasterId>
+		<TelmarId>EMAL</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>CapricornFM</BroadcasterId>
+		<TelmarId>CAPR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+</ArrayOfStationMap>
