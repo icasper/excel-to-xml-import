@@ -9,6 +9,19 @@ Change Reason       :   Update pandas code to write out array
                         from excel to XML file
 
 """
+
+# I M P O R T A N T   I N F O R M A T I O N ! ! !
+
+"""
+
+1. Either make sure that the XML file to be parsed has the correct name and path. Or change the name and path in line as indicated
+
+2. Either make sure that the Excel file to be parsed has the correct name, path and sheet name. Or change the name,path and sheet name 
+   in line as indicated.
+
+"""
+
+
 # Import the Required modules
 
 import pandas as pd
@@ -16,7 +29,7 @@ from xml.dom import minidom
 
 # Get the Document Object Model
 
-doc = minidom.parse('StationMap.xml')
+doc = minidom.parse('StationMap.xml') # Change XML Path and filen name here if it is different than this one
 print(doc.nodeName)
 print(doc.firstChild.tagName)
 ArrayOfStationMap = doc.getElementsByTagName(doc.firstChild.tagName)
@@ -24,7 +37,7 @@ print(ArrayOfStationMap.length)
 
 # Get Excel sheet into pandas array
 
-dfe = pd.read_excel (r'D:\Projects\python\excel-xml-import\StationCode_Torque Media.xlsx', sheet_name='Torque Media')
+dfe = pd.read_excel (r'D:\Projects\python\excel-xml-import\StationCode_Torque Media.xlsx', sheet_name='Torque Media') # Change Excel path, file name and sheet name here
 
 # Iterate through pandas array and update each new StationMap created in XML DOM
 
