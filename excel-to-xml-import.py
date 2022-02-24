@@ -19,6 +19,9 @@ Change Reason       :   Update pandas code to write out array
 2. Either make sure that the Excel file to be parsed has the correct name, path and sheet name. Or change the name,path and sheet name 
    in line as indicated.
 
+3. Make sure that the excel sheet has the following column headers:-
+   BroadcasterId, TelmarId
+
 """
 
 
