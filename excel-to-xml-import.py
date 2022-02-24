@@ -1,5 +1,20 @@
+"""
+Script              :   excel-to-xml-import.py
+Author              :   Ian Casper
+Creation Date       :   23.2.2022
+Description         :   Helper script to import data
+                        from an excel sheet an XML Document
+Change Date         :   24.2.2022
+Change Reason       :   Update pandas code to write out matrix
+                        from excel to XML file
+                        
+"""
+# Import the Required modules
+
 import pandas as pd
 from xml.dom import minidom
+
+# Get the Document Object Model
 
 doc = minidom.parse('StationMap.xml')
 print(doc.nodeName)
