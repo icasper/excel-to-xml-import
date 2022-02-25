@@ -4,9 +4,11 @@ Author              :   Ian Casper
 Creation Date       :   23.2.2022
 Description         :   Helper script to import data
                         from an excel sheet an XML Document
-Change Date         :   24.2.2022
-Change Reason       :   Update pandas code to write out array
+Change Date/Reason  :   24.2.2022
+                        Updated pandas code to write out array
                         from excel to XML file
+                        25.2.2022
+                        Updated Important Information comments
 
 """
 
