@@ -14,13 +14,14 @@ Change Reason       :   Update pandas code to write out array
 
 """
 
-1. Either make sure that the XML file to be parsed has the correct name and path. Or change the name and path in line as indicated
+1. Either make sure that the XML file to be parsed has the correct name and path. Or change the name and path in line commented:
+   1. Important Information
 
 2. Either make sure that the Excel file to be parsed has the correct name, path and sheet name. Or change the name,path and sheet name 
-   in line as indicated.
+   in line commented: 2. Important Information
 
 3. Make sure that the excel sheet has the following column headers:-
-   BroadcasterId, TelmarId
+   BroadcasterId, TelmarId. In that order.
 
 """
 
@@ -32,7 +33,7 @@ from xml.dom import minidom
 
 # Get the Document Object Model
 
-doc = minidom.parse('StationMap.xml') # Change XML Path and filen name here if it is different than this one
+doc = minidom.parse('StationMap.xml') # 1. Important Information
 print(doc.nodeName)
 print(doc.firstChild.tagName)
 ArrayOfStationMap = doc.getElementsByTagName(doc.firstChild.tagName)
@@ -40,7 +41,7 @@ print(ArrayOfStationMap.length)
 
 # Get Excel sheet into pandas array
 
-dfe = pd.read_excel (r'D:\Projects\python\excel-xml-import\StationCode_Torque Media.xlsx', sheet_name='Torque Media') # Change Excel path, file name and sheet name here
+dfe = pd.read_excel (r'D:\Projects\python\excel-xml-import\StationCode_Torque Media.xlsx', sheet_name='Torque Media') # 2. Important Information
 
 # Iterate through pandas array and update each new StationMap created in XML DOM
 
