@@ -836,7 +836,7 @@
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
-		<BroadcasterId>Radio 786</BroadcasterId>
+		<BroadcasterId>786</BroadcasterId>
 		<TelmarId>R78</TelmarId>
 		<Language>E</Language>
 	</StationMap>
@@ -2626,23 +2626,8 @@
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
-		<BroadcasterId>LC</BroadcasterId>
-		<TelmarId>LC</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>LW</BroadcasterId>
-		<TelmarId>LW</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>TC</BroadcasterId>
-		<TelmarId>TC</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>TN</BroadcasterId>
-		<TelmarId>TN</TelmarId>
+		<BroadcasterId>R5</BroadcasterId>
+		<TelmarId>5FM</TelmarId>
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
@@ -2651,33 +2636,43 @@
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
+		<BroadcasterId>ND</BroadcasterId>
+		<TelmarId>IKW</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>SS</BroadcasterId>
+		<TelmarId>LES</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>SW</BroadcasterId>
+		<TelmarId>LIG</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
 		<BroadcasterId>LO</BroadcasterId>
-		<TelmarId>LO</TelmarId>
+		<TelmarId>LOT</TelmarId>
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
 		<BroadcasterId>MT</BroadcasterId>
-		<TelmarId>MT</TelmarId>
+		<TelmarId>MET</TelmarId>
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
-		<BroadcasterId>ND</BroadcasterId>
-		<TelmarId>ND</TelmarId>
+		<BroadcasterId>TW</BroadcasterId>
+		<TelmarId>MOTS</TelmarId>
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
-		<BroadcasterId>NS</BroadcasterId>
-		<TelmarId>NS</TelmarId>
+		<BroadcasterId>TS</BroadcasterId>
+		<TelmarId>MUN</TelmarId>
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
-		<BroadcasterId>N1</BroadcasterId>
-		<TelmarId>N1</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>N7</BroadcasterId>
-		<TelmarId>N7</TelmarId>
+		<BroadcasterId>VN</BroadcasterId>
+		<TelmarId>PHA</TelmarId>
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
@@ -2686,38 +2681,18 @@
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
-		<BroadcasterId>R5</BroadcasterId>
-		<TelmarId>R5</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
 		<BroadcasterId>SA</BroadcasterId>
-		<TelmarId>SA</TelmarId>
+		<TelmarId>RSG</TelmarId>
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
 		<BroadcasterId>SE</BroadcasterId>
-		<TelmarId>SE</TelmarId>
+		<TelmarId>SAFM</TelmarId>
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
-		<BroadcasterId>SS</BroadcasterId>
-		<TelmarId>SS</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>SW</BroadcasterId>
-		<TelmarId>SW</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>TS</BroadcasterId>
-		<TelmarId>TS</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>TW</BroadcasterId>
-		<TelmarId>TW</TelmarId>
+		<BroadcasterId>NS</BroadcasterId>
+		<TelmarId>BELA</TelmarId>
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
@@ -2726,98 +2701,13 @@
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
-		<BroadcasterId>ZC</BroadcasterId>
-		<TelmarId>ZC</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>VN</BroadcasterId>
-		<TelmarId>VN</TelmarId>
+		<BroadcasterId>ZL</BroadcasterId>
+		<TelmarId>UKH</TelmarId>
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
 		<BroadcasterId>XO</BroadcasterId>
-		<TelmarId>XO</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>ZE</BroadcasterId>
-		<TelmarId>ZE</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>ZN</BroadcasterId>
-		<TelmarId>ZN</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>ZL</BroadcasterId>
-		<TelmarId>ZL</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>SB</BroadcasterId>
-		<TelmarId>SB</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>SJ</BroadcasterId>
-		<TelmarId>SJ</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>SD</BroadcasterId>
-		<TelmarId>SD</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>RW</BroadcasterId>
-		<TelmarId>RW</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>SM</BroadcasterId>
-		<TelmarId>SM</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>SC</BroadcasterId>
-		<TelmarId>SC</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>RS</BroadcasterId>
-		<TelmarId>RS</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>ME</BroadcasterId>
-		<TelmarId>ME</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>MN</BroadcasterId>
-		<TelmarId>MN</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>MS</BroadcasterId>
-		<TelmarId>MS</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>5E</BroadcasterId>
-		<TelmarId>5E</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>5N</BroadcasterId>
-		<TelmarId>5N</TelmarId>
-		<Language>E</Language>
-	</StationMap>
-	<StationMap>
-		<BroadcasterId>5S</BroadcasterId>
-		<TelmarId>5S</TelmarId>
+		<TelmarId>UWFM</TelmarId>
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
@@ -2826,18 +2716,248 @@
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
-		<BroadcasterId>XC</BroadcasterId>
-		<TelmarId>XC</TelmarId>
+		<BroadcasterId>EAST</BroadcasterId>
+		<TelmarId>ECR</TelmarId>
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
-		<BroadcasterId>XE</BroadcasterId>
-		<TelmarId>XE</TelmarId>
+		<BroadcasterId>East Coast Gold</BroadcasterId>
+		<TelmarId>ECR</TelmarId>
 		<Language>E</Language>
 	</StationMap>
 	<StationMap>
-		<BroadcasterId>XS</BroadcasterId>
-		<TelmarId>XS</TelmarId>
+		<BroadcasterId>East Coast Radio</BroadcasterId>
+		<TelmarId>ECR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>KZP4</BroadcasterId>
+		<TelmarId>GAGA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>CTP4</BroadcasterId>
+		<TelmarId>HEAR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>JACAR</BroadcasterId>
+		<TelmarId>JAC</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>KAYAFM</BroadcasterId>
+		<TelmarId>KAYA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>RMFM</BroadcasterId>
+		<TelmarId>RMFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>AR</BroadcasterId>
+		<TelmarId>SMI</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Smile FM</BroadcasterId>
+		<TelmarId>SMI</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Gagasi 99.5</BroadcasterId>
+		<TelmarId>GAGA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Heart 104.9</BroadcasterId>
+		<TelmarId>HEAR</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Jac 94.2-Mpumalanga</BroadcasterId>
+		<TelmarId>JCMI</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Jac 94.2-Gauteng</BroadcasterId>
+		<TelmarId>JCGA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Jac 94.2-Limpopo</BroadcasterId>
+		<TelmarId>JCNO</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Jacaranda</BroadcasterId>
+		<TelmarId>JAC</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>KAYA FM</BroadcasterId>
+		<TelmarId>KAYA</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Jacaranda Regional</BroadcasterId>
+		<TelmarId>RMFM</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Smile 90.4FM</BroadcasterId>
+		<TelmarId>SMI</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-HowzitMSN</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Glow</BroadcasterId>
+		<TelmarId>TV</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>CTV</BroadcasterId>
+		<TelmarId>TV</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-Engineering News</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-Outlook</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-Second Screen</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-Skype</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Dumisa TV</BroadcasterId>
+		<TelmarId>TV</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-Vodacom</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Glow</BroadcasterId>
+		<TelmarId>TV</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>ONE Gospel</BroadcasterId>
+		<TelmarId>TV</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-Jacaranda FM</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-East Coast Radio</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-Adjoin</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-Inspiring Women</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Cartoon Network</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Boomerang</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Turner Classic Movies</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-Jacaranda FM</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-East Coast Radio</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-KAYA FM</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-Gumtree</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>TNT Africa</BroadcasterId>
+		<TelmarId>TV</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Alive Advertising</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>Sony Asia</BroadcasterId>
+		<TelmarId>TV</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-D6</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-The South African</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-Indahash</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-Mining Weekly</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
+		<Language>E</Language>
+	</StationMap>
+	<StationMap>
+		<BroadcasterId>D-MTN</BroadcasterId>
+		<TelmarId>DIGIT</TelmarId>
 		<Language>E</Language>
 	</StationMap>
 </ArrayOfStationMap>

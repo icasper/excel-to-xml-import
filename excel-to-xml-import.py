@@ -43,7 +43,7 @@ print(ArrayOfStationMap.length)
 
 # Get Excel sheet into pandas array
 
-dfe = pd.read_excel (r'D:\Projects\python\excel-xml-import\StationCode_SABC.xlsx', sheet_name='SABC') # 2. Important Information
+dfe = pd.read_excel (r'D:\Projects\python\excel-xml-import\StationCode_Mediamark.xlsx', sheet_name='Mediamark') # 2. Important Information
 
 # Iterate through pandas array and update each new StationMap created in XML DOM
 
